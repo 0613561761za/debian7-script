@@ -3,6 +3,6 @@
 
 wget -O debian7.sh https://github.com/kangrio/script-installer-ssh-vpn-debian7/blob/master/debian7.sh?raw=true
 
-chmod +x install.sh
+chmod +x debian7.sh
 
-./install.sh
+./debian7.sh
